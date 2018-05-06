@@ -1,0 +1,17 @@
+  /* Area de un cirulo*/
+var f= new formulas();
+function formulas() {
+  this.areaCirculo = function (radio) {
+  return Math.PI * Math.pow(radio,2);
+  }
+}
+console.log ("El area de un circulo de Radio= es" +f.areaCirculo(8));
+
+/* Area de un triangulo */
+var B= new formulas();
+function formulas() {
+this.areaTriangulo = function (altura) {
+return B*A./2
+}
+}
+console.log ("El area de un triangulo cuya altura es de 10 y base 8= es" +B.areaTriangulo(8));

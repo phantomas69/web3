@@ -1,0 +1,217 @@
+
+
+/* selectores de clase */
+
+
+body
+{
+font-family: 'Montserrat', sans-serif;
+margin: 0;
+  }
+  .titulo{
+  font-size: 54px;
+  font-family: 'Black Han Sans', sans-serif;
+  margin-top: 43px;
+  position: relative;
+    bottom: 45px;
+    right: 113px;
+top: -82px;
+}
+
+.title-a{
+  font-size: 24px;
+font-family: 'Black Han Sans', sans-serif;
+position: relative;
+    bottom: 63px;
+    left: -118px;
+bottom: -92px;
+}
+
+.title-b{
+  font-size: 35px;
+  overflow: hidden;
+  border: 1px solid #1F313c;
+      border-radius: 20px;
+
+}
+.arturofoto{
+  font-size: 35px;
+  margin-bottom: 20px;
+  margin-top: -20;
+  overflow: hidden;
+  border: 1px solid #1F313c;
+      border-radius: 20px;
+}
+.portada{
+  background-image: url("../images/fondo2.jpg");
+  color: #1F313c;
+font-size: 160px;
+padding: 73px;
+margin-bottom: 22px;
+font-size: 3px;
+}
+.imagenes{
+  color: #1F313c;
+
+}
+.menu li:before{
+content: "⦿ ";
+font-size: 20px;
+color: #1F313c;
+}
+.menu{
+  font-size: 19px;
+  color: #1F313c;
+  display: inline-block;
+  position: absolute;
+  right: 170px;
+top: 18px;
+}
+.menu li{
+display: inline-block;
+margin-left: 34px;
+border-radius: 12px;
+border: none;
+color: white;
+padding: 7px 12px;
+cursor: pointer;
+text-decoration: none;
+font-size: 15px;
+background: #fd324e;
+background: linear-gradient(to left, #EB8442, #E4A92C);
+position: relative;
+top: -17px;
+left: 70px;
+}
+
+.logotipo{
+  display: inline-block;
+  position: relative;
+top: -86px;
+left: -139px;
+}
+.boton{
+  display: inline-block;
+  margin-left: 34px;
+  border-radius: 12px;
+  border: none;
+  color: white;
+  padding: 7px 12px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 15px;
+  background: #fd324e;
+  background: linear-gradient(to left, #EB8442, #E4A92C);
+}
+.header{
+  width: 1000px;
+  margin: auto;
+}
+
+.titulo2{
+  padding-left:800px;
+}
+
+.contenedor2{
+  width: 1000px;
+  margin: auto;
+}
+.mid img{
+    float: right;
+    position: relative;
+    top:-77px;
+    left: :-42px;
+  padding-right: 43px;
+}
+
+.Christian{
+  position: relative;
+  left: 735px;
+}
+.nathy{
+  padding-left: 80px;
+  position: absolute;
+bottom: -410px;
+
+}
+.footer{
+  background: #273b47;
+}
+.body
+{
+background-color: #F5F5F5;
+margin: 10px; padding: 10px;
+display: grid;
+}
+.contacto img{
+  display: block;
+}
+.contacto{
+  display: flex;
+  width: 300px;
+  flex-wrap: wrap;
+}
+.contacto strong{
+  display: block;
+}
+.contacto a{
+  color: white;
+  text-decoration: none;
+  margin: 10px 10px 10px 0;
+  padding-left: 20px;
+}
+.footer .contenedor{
+  display: flex;
+  justify-content: space-between;
+}
+.formulario{
+  display: flex;
+  width: -100px;
+}
+.element{
+  display: flex;
+    position: relative;
+    top: -11px;
+    left: 69px;
+}
+.email{
+  display: flex;
+  padding-left: 10px;
+}
+.col2{
+  padding-top: 10px;
+  color: white;
+}
+.Coment2{
+  display: flex;
+}
+.col1{
+  padding-right: 75px;
+  padding-top: 30px;
+  color: white;
+}
+.cajadem{
+  padding-top: 10px;
+  color: white;
+}
+.centrodetabla{
+  padding-left: 330px;
+
+}
+table{
+  width: 100%;
+}
+th{
+  background: #273b47;
+  color: white;
+}
+th{
+  padding: 10px;
+  text-align: left;
+}
+td{
+padding:  20px;
+}
+table, td, th{
+  border: 1px solid #273b47;
+}
